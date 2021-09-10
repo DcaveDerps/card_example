@@ -1,0 +1,12 @@
+[package]
+name = "card_example"
+version = "0.1.0"
+edition = "2018"
+authors = ["Derek Halbedl <djh118@pitt.edu>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.3"
+lazy_static = "1.4.0"
+# lib = { path = "src/lib"}
